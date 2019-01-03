@@ -1,0 +1,5 @@
+#
+# direnv settings
+#
+# python virtual environment
+layout python
